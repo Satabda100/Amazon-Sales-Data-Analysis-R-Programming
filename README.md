@@ -1,2 +1,3 @@
 # Amazon-Sales-Data-Analysis-R-Programming
 Analyzed Amazon's cleaned sales dataset using R to uncover trends and actionable insights. 
+Performed EDA to identify top-selling categories, customer payment preferences, and high-revenue cities. Applied ANOVA to assess sales variation across categories, built a regression model (R² = 0.88) to predict sales based on price and quantity, and used ARIMA for 3-month sales forecasting. Key visualizations include heatmaps, bar charts, regression fit, and time series plots. This project demonstrated practical applications of statistical modeling, forecasting, and data-driven storytelling.
